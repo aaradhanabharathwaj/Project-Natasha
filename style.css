@@ -1,0 +1,15 @@
+body{
+   background-color: rgb(255, 125, 147);
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+button{
+    width: 200px;
+    height: 60px;   
+    color: blue;
+    font-family: 'Pacifico', cursive;
+    font-size: large;
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+}
